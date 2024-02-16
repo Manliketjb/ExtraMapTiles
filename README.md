@@ -8,6 +8,7 @@ If your using Roxwood but have created a different version then please feel free
 > DLK HD Atlas Map (no postal) ![roxwood](https://github.com/Manliketjb/ExtraMapTiles/assets/82594996/122b98fe-0f9a-44af-8190-5bf27e886b68)
 ---------
 > DLK HD Atlas Map (postal) ![roxwood2](https://github.com/Manliketjb/ExtraMapTiles/assets/82594996/d019144e-5fb4-466a-9f30-80df9ac06108)
+> Postal Json will be provided soon™
 ---------
 
 ## Original Resource Post and How To: 
