@@ -15,5 +15,7 @@ If your using Roxwood but have created a different version then please feel free
 > https://forum.cfx.re/t/release-extra-map-tiles-add-extra-map-and-minimap-texture-tiles/5179464
 
 > Open `roxwood.ytd` in [OpenIV](https://openiv.com) and replace the textures with the one that is provided in [textures](github.com/Manliketjb/ExtraMapTiles/tree/main/%5Btextures%5D) Folder or replace with your own!
+> `.pdn` file for a template and sizing has been [Provided]([https://openiv.com](https://github.com/Manliketjb/ExtraMapTiles/blob/main/%5Btextures%5D/roxwood-example.pdn)https://github.com/Manliketjb/ExtraMapTiles/blob/main/%5Btextures%5D/roxwood-example.pdn).
+> Feel free to edit and customise to your own, BUT you will need: [Paint.net](https://www.dotpdn.com/downloads/pdn.html)
 
-## Edited for Roxwood: https://ambitioneers.tebex.io/
+## Edited for [Roxwood](https://ambitioneers.tebex.io/)
